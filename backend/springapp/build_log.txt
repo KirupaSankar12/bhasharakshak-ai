@@ -1,0 +1,32 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------------< com:bhasharakshak >--------------------------
+[INFO] Building bhasharakshak 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ bhasharakshak ---
+[INFO] Deleting C:\Users\mugun\OneDrive\Desktop\BashrakAi\bhasharakshak-ai\backend\springapp\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ bhasharakshak ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ bhasharakshak ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 25 source files with javac [debug release 17] to target\classes
+[INFO] Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+[INFO] /C:/Users/mugun/OneDrive/Desktop/BashrakAi/bhasharakshak-ai/backend/springapp/src/main/java/com/bhasharakshak/service/AIService.java: C:\Users\mugun\OneDrive\Desktop\BashrakAi\bhasharakshak-ai\backend\springapp\src\main\java\com\bhasharakshak\service\AIService.java uses unchecked or unsafe operations.
+[INFO] /C:/Users/mugun/OneDrive/Desktop/BashrakAi/bhasharakshak-ai/backend/springapp/src/main/java/com/bhasharakshak/service/AIService.java: Recompile with -Xlint:unchecked for details.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.905 s
+[INFO] Finished at: 2026-01-24T14:48:13+05:30
+[INFO] ------------------------------------------------------------------------
